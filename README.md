@@ -1,5 +1,5 @@
 # Garbage Segmentation
-A Machine Learning (ML) and Computer Vision projects to detect litter from an image. The ML model uses a uNet with 3,850,629 parameters. After hours of training, a IoU score of 0.52 and a F1 score of 0.62 were achieved.
+A Machine Learning (ML) and Computer Vision project to detect litter from an image. The ML model uses a uNet with 3,850,629 parameters. After hours of training, a IoU score of 0.52 and a F1 score of 0.62 were achieved.
 
 Author: Lawrence Granda Zarzuela
 
