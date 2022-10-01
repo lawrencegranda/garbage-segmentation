@@ -3,6 +3,6 @@ A Machine Learning (ML) and Computer Vision projects to detect litter from an im
 
 Author: Lawrence Granda Zarzuela
 
-Project started in Google Colab on Dec 2021 and finished on Jan 2022
+Project started in Google Colab on May 2022 and finished on Jul 2022
 
-Colab: https://colab.research.google.com/drive/1w53PHfnBU6eRvh9F6ZWTBK-oG63bzbsJ?usp=sharing
+Colab: https://colab.research.google.com/drive/1PzKaSvqqe3_QX2fM6iEfWb7Z3rgf9CtR?usp=sharing
