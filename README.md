@@ -4,7 +4,7 @@ The Garbage Detector is a machine learning and computer vision project aimed at 
 
 
 ## Model Architecture
-The garbage detection model is built using Python and leverages popular deep learning frameworks - Keras and TensorFlow. The core of the model is based on the uNet architecture, which has 3,850,629 parameters for precise and accurate segmentation. To expedite the training process and improve performance, the model employs a pretrained EfficientNetB3 backbone with weights pretrained on the IMagenet dataset.
+The garbage detection model is built using Python and leverages popular deep learning frameworks - Keras and TensorFlow. The core of the model is based on the [uNet architecture](https://arxiv.org/abs/1505.04597), which has 3,850,629 parameters for precise and accurate segmentation. To expedite the training process and improve performance, the model employs a pretrained EfficientNetB3 backbone with weights pretrained on the [ImageNet](https://www.image-net.org/) dataset.
 
 
 ## Model Performance
@@ -12,7 +12,7 @@ After hours of rigorous training, the model achieved impressive results with an 
 
 
 ## Acknowledgments
-Special thanks to the authors of the EfficientNet and uNet papers, as well as the developers of Keras and TensorFlow for providing powerful deep learning tools.
+Special thanks to the authors of the [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf) and [uNet](https://arxiv.org/abs/1505.04597) papers, as well as the developers of Keras and TensorFlow for providing powerful deep learning tools.
 
 
 ## Author Information
